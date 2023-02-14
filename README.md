@@ -4,7 +4,7 @@
 
 -I studied in Bancario School
 
--In my free time I like to play basketball and watch basketball games too
+-In my free time I like to play basketball and go to the gym too
 
 -I participate in the science olympiads multiple times in the subjects of  math and computing, I got a 3rd place in computing
 
