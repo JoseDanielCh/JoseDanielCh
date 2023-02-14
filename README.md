@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, my name is Daniel
+#### Currently studying mechatronic engineering 
+![Currently studying mechatronic engineering ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**JoseDanielCh/JoseDanielCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-I studied in Bancario School
+-In my free time I like to play basketball and watch basketball games too
+-I participate in the science olympiads multiple times in the subjects of  math and computing, I got a 3rd place in computing
+-I decided to study this carrer because since I was kid I always wanted to know how the things work and I would like to create things that make people's life easier
+-When I finish the university, I would like to create a product that will helps people to have a more organized life and a easier one too
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning How to program 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JoseDanielCh)  
+
